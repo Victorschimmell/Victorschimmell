@@ -2,7 +2,6 @@
   <img src="Animation.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-
 #### A passionate backend- and frontend developer pursuing a career within Computer Science. Currently studying at University of Copenhagen, Denmark.
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://victorschimmell.com/)
