@@ -13,6 +13,8 @@
   <a href="https://www.instagram.com/victorschimmell/"><img alt="logo" src="https://img.shields.io/badge/-Instagram-c13584?logo=instagram&logoColor=white&style=for-the-badge"/>
   <a href="https://discordapp.com/users/schimmell"><img alt="logo" src="https://img.shields.io/badge/-Discord-3e74e8?logo=discord&logoColor=white&style=for-the-badge"/>
 </p>
+    
+<hr>
 
 <h1 align="center">🗒 Languages</h1>
 
@@ -27,5 +29,7 @@
 - F#
   
 - SQL
+
+<hr>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Victorschimmell)](https://github.com/ryo-ma/github-profile-trophy)
