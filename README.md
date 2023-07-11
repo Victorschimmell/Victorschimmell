@@ -16,10 +16,15 @@
 
 <h1 align="center">🗒 Languages</h1>
 - C#
+
 - Java
+  
 - JavaScript
+  
 - Python
+
 - F#
+  
 - SQL
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Victorschimmell)](https://github.com/ryo-ma/github-profile-trophy)
