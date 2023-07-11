@@ -2,10 +2,21 @@
   <img src="Animation.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-#### A passionate backend- and frontend developer pursuing a career within Computer Science. Currently studying at University of Copenhagen, Denmark.
+<hr>
+<h3 = align="center">A passionate backend- and frontend developer pursuing a career within Computer Science. Currently studying at University of Copenhagen, Denmark.</h3>
+
+<hr>
+
+<h1 = align="center">🔗 Links</h1>>
+<p align="center">
+  <a href="https://victorschimmell.com/"<img alt="logo" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/victorschimmell"<img alt="logo" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://victorschimmell.com/"<img alt="logo" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+  <a href="https://victorschimmell.com/"<img alt="logo" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+</p>
+
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://victorschimmell.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorschimmell/)
+https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/V1P3Rdk)
 
 
