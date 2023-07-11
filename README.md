@@ -7,7 +7,7 @@
 
 <hr>
 
-<h1 = align="center">🔗 Links</h1>
+<h1>🔗 Links</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/victorschimmell/"><img alt="logo" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
   <a href="https://www.instagram.com/victorschimmell/"><img alt="logo" src="https://img.shields.io/badge/-Instagram-c13584?logo=instagram&logoColor=white&style=for-the-badge"/>
