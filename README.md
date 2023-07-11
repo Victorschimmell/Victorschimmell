@@ -1,4 +1,3 @@
-
 ## 👋 Hi, I'm Victor Schimmell
 
 #### A passionate backend developer pursuing a career within Computer Science. Currently studying at University of Copenhagen, Denmark.
@@ -9,7 +8,6 @@
 
 
 ## Languages
-
 - C#
 - Java
 - JavaScript
