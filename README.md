@@ -13,7 +13,9 @@
   <a href="https://www.instagram.com/victorschimmell/"><img alt="logo" src="https://img.shields.io/badge/-Instagram-c13584?logo=instagram&logoColor=white&style=for-the-badge"/>
   <a href="https://discordapp.com/users/schimmell"><img alt="logo" src="https://img.shields.io/badge/-Discord-3e74e8?logo=discord&logoColor=white&style=for-the-badge"/>
 </p>
-📫 Feel free to reach out to me on victorschimmell@gmail.com
+    
+📫 Feel free to reach out to me on **victorschimmell@gmail.com**
+
 🎰 All my projects are available and can be located at [https://github.com/Victorschimmell?tab=repositories](https://github.com/Victorschimmell?tab=repositories)
 
     
