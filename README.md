@@ -1,4 +1,6 @@
-## 👋 Hi, I'm Victor Schimmell
+<div style="width: 100%;">
+  <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
 #### A passionate backend developer pursuing a career within Computer Science. Currently studying at University of Copenhagen, Denmark.
 ## 🔗 Links
