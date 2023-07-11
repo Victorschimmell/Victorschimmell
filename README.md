@@ -39,7 +39,3 @@
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
-
-<hr>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Victorschimmell)](https://github.com/ryo-ma/github-profile-trophy)
