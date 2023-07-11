@@ -17,4 +17,4 @@
 - F#
 - SQL
 
-[![trophy](https://github-profile-trophy.vercel.app/?Victorschimmell=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Victorschimmell)](https://github.com/ryo-ma/github-profile-trophy)
