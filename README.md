@@ -21,7 +21,7 @@
     
 <hr>
 
-<h1 align="center">🗒 Languages</h1>
+<h1 align="center">🗒 Languages and tools</h1>
 
 - C#
 
