@@ -8,6 +8,8 @@
 <hr>
 
 <h1 = align="center">🔗 Links</h1>
+
+<hr>
 <p align="center">
   <a href="https://victorschimmell.com/"<img alt="logo" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/>
   <a href="https://www.linkedin.com/in/victorschimmell"<img alt="logo" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
