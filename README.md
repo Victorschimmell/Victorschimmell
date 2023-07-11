@@ -3,7 +3,7 @@
 </div>
 
 <hr>
-<h3>A passionate backend- and frontend developer pursuing a career within Computer Science. Currently studying at University of Copenhagen, Denmark.</h3>
+<h4>A passionate backend- and frontend developer pursuing a career within Computer Science. Currently studying at University of Copenhagen, Denmark.</h3>
 
 <hr>
 
